@@ -27,5 +27,7 @@ else:
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/12d35400-7fc8-48a7-a975-d126cdc6dda6)
 
 ## RESULT
+Thus, the Python program for Printing User Type Based on Choice has been Implemented and executed successfully.
